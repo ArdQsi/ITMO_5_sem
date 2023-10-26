@@ -1,0 +1,9 @@
+CREATE INDEX CPrice ON computercases(price);
+CREATE INDEX DPrice ON datastorage(price);
+CREATE INDEX GPrice ON graphicscards(price);
+CREATE INDEX MPrice ON motherboards(price);
+CREATE INDEX PPrice ON powersupply(price);
+CREATE INDEX PrPrice ON processors(price);
+CREATE INDEX RPrice ON ram_memory(price);
+CREATE INDEX GIndex ON graphicscards(powerconsumption);
+CREATE INDEX PIndex ON powersupply(power);

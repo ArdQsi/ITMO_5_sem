@@ -1,0 +1,11 @@
+DELETE FROM RAM_Memory;
+DELETE FROM PowerSupply;
+DELETE FROM Processors;
+DELETE FROM Motherboards;
+DELETE FROM GraphicsCards;
+DELETE FROM ComputerCases;
+DELETE FROM DataStorage;
+DELETE FROM ProcessorsMotherboards;
+DELETE FROM ComputerCasesMotherboards;
+DELETE FROM RAM_MemoryMotherboards;
+DELETE FROM GraphicsCardsMotherboards;

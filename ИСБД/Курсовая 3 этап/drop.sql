@@ -1,0 +1,11 @@
+DROP TABLE ProcessorsMotherboards;
+DROP TABLE ComputerCasesMotherboards;
+DROP TABLE RAM_MemoryMotherboards;
+DROP TABLE GraphicsCardsMotherboards;
+DROP TABLE RAM_Memory;
+DROP TABLE PowerSupply;
+DROP TABLE Processors;
+DROP TABLE Motherboards;
+DROP TABLE GraphicsCards;
+DROP TABLE ComputerCases;
+DROP TABLE DataStorage;
